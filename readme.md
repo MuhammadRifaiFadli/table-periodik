@@ -15,7 +15,6 @@ Proyek ini adalah visualisasi dari elemen-elemen HTML dalam bentuk tabel periodi
 - **Bahasa Pemrograman**: HTML, CSS
 - **Framework/Library**: Tidak ada, hanya HTML murni dan CSS untuk styling.
 
-## Struktur Proyek
 
 
 ## Cara Menggunakan
