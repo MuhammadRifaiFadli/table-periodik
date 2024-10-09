@@ -2,6 +2,8 @@
 
 Proyek ini adalah visualisasi dari elemen-elemen HTML dalam bentuk tabel periodik. Setiap elemen HTML dikelompokkan berdasarkan fungsinya dalam pengembangan web dan diberi kode warna untuk memudahkan identifikasi.
 
+<img src="Screenshot_1.png">
+
 ## Fitur
 
 - Visualisasi elemen-elemen HTML dalam bentuk tabel periodik.
